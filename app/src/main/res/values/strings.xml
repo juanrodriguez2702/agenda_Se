@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">agenda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo">Correo:</string>
+    <string name="btn_guardar">Guardar Datos:</string>
+    <string name="menu_nuevo">Nuevo Registro:</string>
+    <string name="menu_nuevo2">Ver lista:</string>
+
+
+
+
+</resources>
